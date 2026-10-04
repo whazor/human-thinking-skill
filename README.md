@@ -18,12 +18,16 @@ You find your own words and draw your own conclusions.
 
 ## Writing
 
-The text needs to come from you. The AI can help organize it using only words you have actually said or written.
+The text needs to come from you. The AI acts like a journalist interviewer/editor: it asks questions to help you express what you mean, then helps organize and clean up your words.
 
 - It can delete text and move it around.
 - It can reuse your text for headings.
-- It can fix typos and speech-to-text errors.
-- It cannot add its own wording or write new content for you.
+- It can fix spelling, punctuation, speech-to-text errors, and small grammatical slips.
+- It can restore a skipped word when your intended wording is clear.
+- If the wording is unclear, it asks you instead of guessing.
+- It cannot invent new phrases or ideas, replace your words with polished synonyms, or write new content for you.
+
+The edits keep your meaning and voice. Corrections and clearly missing words are exceptions to using only words you have already supplied. When something is missing from the text, the AI interviews you for it.
 
 ## Use
 
