@@ -29,6 +29,8 @@ The text needs to come from you. The AI acts like a journalist interviewer/edito
 
 The edits keep your meaning and voice. Corrections and clearly missing words are exceptions to using only words you have already supplied. When something is missing from the text, the AI interviews you for it.
 
+Tip: This skill works great with transcribing or voice mode.
+
 ## Use
 
 Invoke the skill with `$human-thinking` and tell it what you want to think about. When working on a text, provide your own words and ask it to organize them.
